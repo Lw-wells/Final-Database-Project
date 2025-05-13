@@ -25,4 +25,4 @@ To set up this project:
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Lw-wells/Final-Database-Project.git
-   cd clinic-booking-system
+   cd Final-Database-Project

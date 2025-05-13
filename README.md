@@ -19,6 +19,10 @@ The goal is to demonstrate mastery of:
 - Track diagnoses and treatments through medical records
 - Enforce data integrity using SQL constraints
 
+  ## The ERD and Link
+  https://dbdiagram.io/d/Clinic-Booking-DB-Design-68235ad15b2fc4582f6a2875
+
+
 ## 🛠️ How to Run / Setup
 To set up this project:
 
